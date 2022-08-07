@@ -8,13 +8,13 @@
 
 ---
 
-- Aloha, I’m @IceServal， the master ice ling mountain!
+- Aloha, I’m @IceServal，the master ice ling mountain!
 - There are many things I want to try but I mainly interest in the following subjects:
-  - coding and computer science, especially the computer graphics, esppppecially physical simulation
-  - ACG related things, anime, comic and computer games are my favorite hoobies, I also like doing these things when I'm free
+  - coding and computer science, especially the computer graphics, esppppecially the physical simulation
+  - ACG related things, anime, comic and computer games are my favorite hoobies, I also very like doing these things when I'm free
   - philosophy, especially the marxism philosophy, espppecially the base theory of marxism philosophy
 - If you are curious about me or my repos, feel free to contact me with email: icelingshan@foxmail.com
-- I'm single and finding my strategic partner of life XD
+- I'm single and finding my life strategic partner XD
 
 <!---
 IceServal/IceServal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
